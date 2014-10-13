@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding" useUTFGuessing="true" native2AsciiForPropertiesFiles="false">
+    <file url="file://$PROJECT_DIR$/src/main/java/com/kevin/mongo/ContentKeyGenerator.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/kevin/mongo/Mongo.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/kevin/mongo/MongoException.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/kevin/mongo/MongoObject.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/kevin/mongo/MongoUtils.java" charset="UTF-8" />
+  </component>
+</project>
+
